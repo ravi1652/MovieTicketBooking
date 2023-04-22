@@ -1,2 +1,0 @@
-
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Darshini-M/book-my-show-app/InitialSetUp/public/favicon.ico">

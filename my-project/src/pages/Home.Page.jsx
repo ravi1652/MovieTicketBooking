@@ -89,3 +89,4 @@ const HomePage = () => {
 };
 
 export default DefaultLayoutHoc(HomePage);
+

@@ -74,7 +74,7 @@ const PlayPage = () => {
           <div>
             <PlayFilters
               title="Language"
-              tags={["English", "Kannada", "Hindi", "Telgu"]}
+              tags={["English", "Kannada", "Hindi", "Telugu" ]}
             />
           </div>
         </div>
